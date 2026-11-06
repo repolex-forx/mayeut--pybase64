@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/mayeut/pybase64/commit/10639d9232cad3702431d7f2211e1fd2e36be5d8",
       "git:hexsha": "10639d9232cad3702431d7f2211e1fd2e36be5d8",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/mayeut/pybase64/commit/4465bc919beb2ca0ed7379acafd2642fa4dc84fa",
