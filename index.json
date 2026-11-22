@@ -3,6 +3,11 @@
   "repo": "pybase64",
   "versions": [
     {
+      "commit": "2632d3d19a29feeefd0f28dcdd94e10283d88364",
+      "tag": "v1.4.3",
+      "parsed_at": "2026-11-22T08:00:32.675016+00:00"
+    },
+    {
       "commit": "10639d9232cad3702431d7f2211e1fd2e36be5d8",
       "tag": "",
       "parsed_at": "2026-11-06T03:12:08.382817+00:00"
